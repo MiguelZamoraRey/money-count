@@ -8,14 +8,23 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #CDDC39;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #F0F4C3;
+}
+
+.button-normal{
+  background-color: #757575;
+  color: #212121;
+}
+.button-discreete{
+  background-color: transparent;
+  color: #212121;
 }
 
 .App-link {

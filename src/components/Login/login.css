@@ -1,0 +1,16 @@
+.Login-logo img{
+	min-width: 10rem;
+    max-width: 10rem; 
+}
+
+.Login-logo img g path{
+	fill: '#F0F34C3';
+}
+
+.Login-logo{
+	padding: 1rem;
+}
+
+.Login-form{
+	padding: 1rem;
+}
